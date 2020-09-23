@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavDrawer</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <!--Arguments to ActionBarDrawerToggle constructor-->
+    <string name="close">Close navigation drawer</string>
+    <string name="open">Open navigation drawer</string>
+</resources>
